@@ -1,0 +1,26 @@
+.displayItemsBackground {
+  background-image: url('https://wallpapercave.com/dwp2x/24RYR2i.jpg');
+  background-size: cover;
+  min-height: 100vh;
+  overflow: auto;
+  padding: 100px;
+}
+.displayItemsCard {
+  background-color: aqua;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 8px;
+  padding: 50px;
+}
+.addHead {
+  color: red;
+  font-family: 'Roboto';
+}
+h2 {
+  color: blue;
+}
+span {
+  color: green;
+}
